@@ -7,28 +7,24 @@ p {
   text-align: center;
 }
 
-.greenS {
+.green {
   color: #98c379;
 }
 
-.blueN {
+.blue {
   color: #56b6c2;
 }
 
-.yellowO {
+.yellow {
   color: #c6ad00;
 }
 
-.purpleO {
+.purple {
   color: #b400b9;
 }
 
-.redP {
+.red {
   color: #c62d48;
-}
-
-.greenY {
-  color: #98c379;
 }
 
 input {
